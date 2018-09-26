@@ -9,7 +9,7 @@ public class Bola : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		
-		//testsando
+		
 		
 		pontos = GameObject.Find ("Sexta").GetComponent<Ponto> ();
 		pontoBola = GameObject.Find ("Ponto").GetComponent<AddForcaABola>();
