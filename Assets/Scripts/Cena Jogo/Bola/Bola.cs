@@ -26,10 +26,14 @@ public class Bola : MonoBehaviour {
 	}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 >>>>>>> parent of c4b076a... funcao nova
 =======
 >>>>>>> parent of e714498... funcao nova
+=======
+	void int a(int i){}
+>>>>>>> parent of 734c281... func a
 }
