@@ -24,5 +24,5 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
-	void int a(int i){}
+	void int a(int i, int s){}
 }
