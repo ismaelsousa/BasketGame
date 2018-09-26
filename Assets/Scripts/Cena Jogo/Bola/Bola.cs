@@ -31,4 +31,5 @@ public class Bola : MonoBehaviour {
 =======
 	void int a(int i, int s){}
 >>>>>>> Testarcolocarimg
+	void int a(int i, int a){}
 }
