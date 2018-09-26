@@ -24,5 +24,16 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> parent of c4b076a... funcao nova
+=======
+>>>>>>> parent of e714498... funcao nova
+>>>>>>> parent of b1d7ee0... ddd
 }
