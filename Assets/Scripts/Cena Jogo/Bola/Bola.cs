@@ -24,6 +24,9 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of c4b076a... funcao nova
 }
