@@ -24,7 +24,10 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> Testarcolocarimg
 }
