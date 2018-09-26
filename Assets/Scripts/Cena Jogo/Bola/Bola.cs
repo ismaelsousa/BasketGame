@@ -24,7 +24,9 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
+<<<<<<< HEAD
 
 	void int a(int i,int a){}
 
+=======
 }
