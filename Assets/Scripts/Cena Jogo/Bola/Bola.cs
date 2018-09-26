@@ -24,4 +24,6 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
+	
+	void int a(){}
 }
