@@ -24,6 +24,10 @@ public class Bola : MonoBehaviour {
 		} 
 
 	}
+<<<<<<< HEAD
 	
 	void int a(){}
+=======
+	void int a(int i){}
+>>>>>>> Testarcolocarimg
 }
